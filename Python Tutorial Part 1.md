@@ -6,8 +6,6 @@ While some programming languages have a steep learning curve, Python is a langua
 
 This tutorial will walk you through installing Python, creating your very first code file, and running your Python code.
 
-Let's begin!
-
 ### Install Python:
 
 In order to begin, you'll  need to install Python on your computer. Thankfully, Python makes this simple for users on the most common operating systems (Windows, Mac, and Linux).
