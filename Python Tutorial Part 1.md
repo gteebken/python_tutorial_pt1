@@ -8,7 +8,7 @@ This tutorial will walk you through installing Python, creating your very first 
 
 Let's begin!
 
-#### Install Python:
+### Install Python:
 
 In order to begin, you'll  need to install Python on your computer. Thankfully, Python makes this simple for users on the most common operating systems (Windows, Mac, and Linux).
 
@@ -20,7 +20,7 @@ In order to begin, you'll  need to install Python on your computer. Thankfully, 
 - Download and install Python (default settings are fine for now).
 > If you encounter any difficulty, try [this installation guide](https://wiki.python.org/moin/BeginnersGuide/Download) or the [Python Help](https://www.python.org/about/help/) page.
 
-#### Run IDLE
+### Run IDLE
 
 Believe it or not, installing Python was probably the hardest part. Now, we need to write some Python. At this stage, writing Python is most easily accomplished by using the program IDLE, which installs along with Python on Windows and Mac systems (Linux users will have to install separately, see [this guide](https://www.poftut.com/download-install-and-use-python-idle-editor/) for help). IDLE allows you to write, save, and execute Python commands.
 
@@ -38,7 +38,7 @@ Believe it or not, installing Python was probably the hardest part. Now, we need
 
 ![New window called 'untitled'](imgs/untitled.png)
 
-#### Create Your Program
+### Create Your Program
 
 - Type the following line into the new window:
 
@@ -52,12 +52,12 @@ print("Hello World!")
 
 - Save your file in the folder you want to work in.
 > Python requires you to save the file before running it. It's good style to name code files in one long string that starts with a letter and is separated by underscores. Some good file name examples:
-  - hello_world.py
-  - first_program.py
+>  - hello_world.py
+>  - first_program.py
 
-#### Hello World!
+### Hello World!
 
-- Run the code by clicking 'Run' and then 'Run Module'.
+- Run the code by clicking the 'Run' menu and then 'Run Module'.
 > You can also use the keyboard shortcut `F5` to execute the program. If that doesn't work, try `Fn + F5` or `Ctrl + F5`.
 
 ![Click Run and select Run Module](imgs/run.png)
@@ -67,7 +67,7 @@ print("Hello World!")
 
 ![The output of your program in the shell](imgs/output.png)
 
-#### Next Steps...
+### Next Steps...
 
 Now that you've created and run your first program, play around with the code. Don't be afraid to break it!
 - Try removing the quotation marks around `"Hello World!"`.
